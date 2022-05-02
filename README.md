@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bishtmanya14@gmail.com**
 
-- ⚡ Fun fact **I enjoy reading books especially books related to finance.**
+- ⚡ Fun fact **I enjoy reading books especially books related to finance. I love to listen music and especially instrumental music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
