@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manya Bisht</h1>
-<h3 align="center">Exploring what the world has to offer! |First year student of Computer Science |competitive programming |Web Development</h3>
+<h3 align="center">Exploring what the world has to offer! |competitive programming |Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manya0210&label=Profile%20views&color=0e75b6&style=flat" alt="manya0210" /> </p>
 
